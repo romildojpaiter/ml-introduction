@@ -1,2 +1,9 @@
 ./machine-learning/**
 ./vscode/**
+./transfer-learning/**
+
+**/bin/**
+**/lib/**
+**/lib64
+**/lib64/**
+**/*.pyc
