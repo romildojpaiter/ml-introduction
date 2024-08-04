@@ -1,6 +1,7 @@
 ./machine-learning/**
 ./vscode/**
 ./transfer-learning/**
+./dataset/Apple_flowers/**
 
 **/bin/**
 **/lib/**
