@@ -8,3 +8,4 @@
 **/lib64
 **/lib64/**
 **/*.pyc
+datasets/Apple_flowers/**
