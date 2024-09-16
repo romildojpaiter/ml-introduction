@@ -1,0 +1,733 @@
+cls,qtd_features,scoring,score,features
+LinearRegression(),1,rand_score,0.9941414141414141,"Index(['NDVI_d01'], dtype='object')"
+LinearRegression(),1,r2,-0.06445199150879911,"Index(['NDVI_d01'], dtype='object')"
+LinearRegression(),1,max_error,-46.24910353120078,"Index(['NDVI_d01'], dtype='object')"
+LinearRegression(),1,neg_mean_squared_error,-539.0993707136101,"Index(['NDVI_d01'], dtype='object')"
+LinearRegression(),1,explained_variance,0.012883853949138125,"Index(['NDVI_d01'], dtype='object')"
+LinearRegression(),1,d2_absolute_error_score,-0.1130821964796946,"Index(['NDVI_d01'], dtype='object')"
+LinearRegression(),2,rand_score,0.9941414141414141,"Index(['NDVI_d01', 'SAVI_d01'], dtype='object')"
+LinearRegression(),2,r2,0.09396486029209095,"Index(['NDVI_d01', 'SAVI_d01'], dtype='object')"
+LinearRegression(),2,max_error,-42.43175346435352,"Index(['NDVI_d01', 'SAVI_d01'], dtype='object')"
+LinearRegression(),2,neg_mean_squared_error,-460.737346300238,"Index(['NDVI_d01', 'SAVI_d01'], dtype='object')"
+LinearRegression(),2,explained_variance,0.13760265143502368,"Index(['NDVI_d01', 'SAVI_d01'], dtype='object')"
+LinearRegression(),2,d2_absolute_error_score,-0.037590232647496113,"Index(['NDVI_d01', 'SAVI_d01'], dtype='object')"
+LinearRegression(),3,rand_score,0.9941414141414141,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04'], dtype='object')"
+LinearRegression(),3,r2,0.6727804225014804,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04'], dtype='object')"
+LinearRegression(),3,max_error,-26.022755279127125,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04'], dtype='object')"
+LinearRegression(),3,neg_mean_squared_error,-168.14510652145563,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04'], dtype='object')"
+LinearRegression(),3,explained_variance,0.6865613009266912,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04'], dtype='object')"
+LinearRegression(),3,d2_absolute_error_score,0.4250925543364784,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04'], dtype='object')"
+LinearRegression(),4,rand_score,0.9941414141414141,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04'], dtype='object')"
+LinearRegression(),4,r2,0.7266720621285861,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04'], dtype='object')"
+LinearRegression(),4,max_error,-23.3342644407581,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04'], dtype='object')"
+LinearRegression(),4,neg_mean_squared_error,-135.63446827267276,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04'], dtype='object')"
+LinearRegression(),4,explained_variance,0.7339698814307732,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04'], dtype='object')"
+LinearRegression(),4,d2_absolute_error_score,0.4457658115433497,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04'], dtype='object')"
+LinearRegression(),5,rand_score,0.9941414141414141,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'SAVI_d08'], dtype='object')"
+LinearRegression(),5,r2,0.8223245283788341,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'SAVI_d08'], dtype='object')"
+LinearRegression(),5,max_error,-16.922846421350354,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'SAVI_d08'], dtype='object')"
+LinearRegression(),5,neg_mean_squared_error,-81.03672009588047,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'SAVI_d08'], dtype='object')"
+LinearRegression(),5,explained_variance,0.827840099165613,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'SAVI_d08'], dtype='object')"
+LinearRegression(),5,d2_absolute_error_score,0.5644840728670817,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'SAVI_d08'], dtype='object')"
+LinearRegression(),6,rand_score,0.9941414141414141,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08'], dtype='object')"
+LinearRegression(),6,r2,0.8233753596096329,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08'], dtype='object')"
+LinearRegression(),6,max_error,-15.995193022150442,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08'], dtype='object')"
+LinearRegression(),6,neg_mean_squared_error,-80.76821103945298,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08'], dtype='object')"
+LinearRegression(),6,explained_variance,0.8294237010494246,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08'], dtype='object')"
+LinearRegression(),6,d2_absolute_error_score,0.5574680586515373,"Index(['NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08'], dtype='object')"
+LinearRegression(),7,rand_score,0.9941414141414141,"Index(['SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08',
+       'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),7,r2,0.8202942847766469,"Index(['SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08',
+       'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),7,max_error,-15.781971800347083,"Index(['SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08',
+       'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),7,neg_mean_squared_error,-82.84445348623021,"Index(['SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08',
+       'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),7,explained_variance,0.826372651758879,"Index(['SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08',
+       'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),7,d2_absolute_error_score,0.552522439936062,"Index(['SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08',
+       'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),8,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),8,r2,0.816017106936593,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),8,max_error,-15.997440038043049,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),8,neg_mean_squared_error,-85.04457448703965,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),8,explained_variance,0.8220217239418248,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),8,d2_absolute_error_score,0.5468499651896093,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08'],
+      dtype='object')"
+LinearRegression(),9,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),9,r2,0.8642534971610447,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),9,max_error,-15.981200099381294,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),9,neg_mean_squared_error,-65.065780276869,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),9,explained_variance,0.870106585103502,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),9,d2_absolute_error_score,0.6211156327555175,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),10,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),10,r2,0.8655536026349081,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),10,max_error,-16.041409595970162,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),10,neg_mean_squared_error,-63.18815390018433,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),10,explained_variance,0.8710054860884405,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),10,d2_absolute_error_score,0.6244596842948111,"Index(['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),11,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),11,r2,0.8592050402775901,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),11,max_error,-16.33710604079223,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),11,neg_mean_squared_error,-66.12917738364436,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),11,explained_variance,0.8653115520015504,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),11,d2_absolute_error_score,0.6152928733891322,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),12,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),12,r2,0.862624507027008,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),12,max_error,-15.879521170270085,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),12,neg_mean_squared_error,-64.3410348494971,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),12,explained_variance,0.8699948676137792,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),12,d2_absolute_error_score,0.617503154767175,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),13,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),13,r2,0.8617649200612677,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),13,max_error,-15.677791358105292,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),13,neg_mean_squared_error,-64.6572353528201,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),13,explained_variance,0.8679162844447635,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),13,d2_absolute_error_score,0.6141364767461004,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),14,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),14,r2,0.8568329558907941,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),14,max_error,-15.51649720945316,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),14,neg_mean_squared_error,-67.21539856163147,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),14,explained_variance,0.8639971148193697,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),14,d2_absolute_error_score,0.6012614634091559,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),15,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),15,r2,0.8551560805820653,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),15,max_error,-15.501065572962734,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),15,neg_mean_squared_error,-67.9678795485327,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),15,explained_variance,0.8625499804183144,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),15,d2_absolute_error_score,0.5986177008037956,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04', 'MCARI1_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),16,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),16,r2,0.8539354093351493,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),16,max_error,-16.07238952228693,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),16,neg_mean_squared_error,-69.07728497579703,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),16,explained_variance,0.8617348693360999,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),16,d2_absolute_error_score,0.597843189019981,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),17,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),17,r2,0.8498948606438613,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),17,max_error,-16.217841413253858,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),17,neg_mean_squared_error,-71.05762292934303,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),17,explained_variance,0.8580441922614972,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),17,d2_absolute_error_score,0.5921669791656091,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'NDVI_d04', 'SAVI_d04', 'GNDVI_d04',
+       'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+LinearRegression(),18,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),18,r2,0.8484410541104715,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),18,max_error,-16.34212763340732,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),18,neg_mean_squared_error,-71.70878243806018,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),18,explained_variance,0.8566992380056355,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),18,d2_absolute_error_score,0.5911457958901097,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),19,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),19,r2,0.8438806051050195,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),19,max_error,-16.48651170127938,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),19,neg_mean_squared_error,-73.86941722361462,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),19,explained_variance,0.8525071679876202,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),19,d2_absolute_error_score,0.5855423873306885,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),20,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),20,r2,0.841721582103373,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),20,max_error,-16.68421792459284,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),20,neg_mean_squared_error,-74.70433523199317,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),20,explained_variance,0.8508037963752155,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+LinearRegression(),20,d2_absolute_error_score,0.5838996103890063,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),1,rand_score,0.9941414141414141,"Index(['SR_d08'], dtype='object')"
+Ridge(),1,r2,0.666237129771986,"Index(['SR_d08'], dtype='object')"
+Ridge(),1,max_error,-23.54977504580055,"Index(['SR_d08'], dtype='object')"
+Ridge(),1,neg_mean_squared_error,-157.06397693012698,"Index(['SR_d08'], dtype='object')"
+Ridge(),1,explained_variance,0.6974950250742965,"Index(['SR_d08'], dtype='object')"
+Ridge(),1,d2_absolute_error_score,0.39045397918034014,"Index(['SR_d08'], dtype='object')"
+Ridge(),2,rand_score,0.9941414141414141,"Index(['GNDVI_d01', 'SR_d08'], dtype='object')"
+Ridge(),2,r2,0.8115051714030551,"Index(['GNDVI_d01', 'SR_d08'], dtype='object')"
+Ridge(),2,max_error,-18.562858302341922,"Index(['GNDVI_d01', 'SR_d08'], dtype='object')"
+Ridge(),2,neg_mean_squared_error,-88.44569485345677,"Index(['GNDVI_d01', 'SR_d08'], dtype='object')"
+Ridge(),2,explained_variance,0.8260226400064177,"Index(['GNDVI_d01', 'SR_d08'], dtype='object')"
+Ridge(),2,d2_absolute_error_score,0.5335888364823468,"Index(['GNDVI_d01', 'SR_d08'], dtype='object')"
+Ridge(),3,rand_score,0.9941414141414141,"Index(['GNDVI_d01', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),3,r2,0.8215636808609581,"Index(['GNDVI_d01', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),3,max_error,-17.266587344430597,"Index(['GNDVI_d01', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),3,neg_mean_squared_error,-81.6779002395131,"Index(['GNDVI_d01', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),3,explained_variance,0.8347105911744306,"Index(['GNDVI_d01', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),3,d2_absolute_error_score,0.5440230342150028,"Index(['GNDVI_d01', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),4,rand_score,0.9941414141414141,"Index(['GNDVI_d01', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),4,r2,0.8313743588028499,"Index(['GNDVI_d01', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),4,max_error,-17.039691258242197,"Index(['GNDVI_d01', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),4,neg_mean_squared_error,-77.913875240068,"Index(['GNDVI_d01', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),4,explained_variance,0.8447755504422204,"Index(['GNDVI_d01', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),4,d2_absolute_error_score,0.5537750520489059,"Index(['GNDVI_d01', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),5,rand_score,0.9941414141414141,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),5,r2,0.8500167521390154,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),5,max_error,-15.547266584220845,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),5,neg_mean_squared_error,-69.35642858526255,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),5,explained_variance,0.8586476579925899,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),5,d2_absolute_error_score,0.6046135625163637,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),6,rand_score,0.9941414141414141,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),6,r2,0.8518360241975955,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),6,max_error,-15.590164057636958,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),6,neg_mean_squared_error,-68.619969497867,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),6,explained_variance,0.8606202073966049,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),6,d2_absolute_error_score,0.6070139415052647,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08'], dtype='object')"
+Ridge(),7,rand_score,0.9941414141414141,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),7,r2,0.8537815643146514,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),7,max_error,-15.517240638381214,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),7,neg_mean_squared_error,-67.8008633973196,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),7,explained_variance,0.8630052232179573,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),7,d2_absolute_error_score,0.6039593623848987,"Index(['GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),8,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),8,r2,0.8635241294814628,"Index(['MCARI1_d28', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),8,max_error,-14.586942653254066,"Index(['MCARI1_d28', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),8,neg_mean_squared_error,-63.29014093773075,"Index(['MCARI1_d28', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),8,explained_variance,0.8720098987231506,"Index(['MCARI1_d28', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),8,d2_absolute_error_score,0.6151276383859317,"Index(['MCARI1_d28', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),9,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),9,r2,0.8626278965601207,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),9,max_error,-14.789669599154383,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),9,neg_mean_squared_error,-63.432512743090264,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),9,explained_variance,0.8707252318013217,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),9,d2_absolute_error_score,0.612484794325122,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),10,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),10,r2,0.8628839228544558,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),10,max_error,-14.813196199964972,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),10,neg_mean_squared_error,-63.27405116147834,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),10,explained_variance,0.8705828995737944,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),10,d2_absolute_error_score,0.6124377778310862,"Index(['MCARI1_d28', 'NDVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),11,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),11,r2,0.8626525388523987,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),11,max_error,-14.857918789868602,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),11,neg_mean_squared_error,-63.35316410583592,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),11,explained_variance,0.8703106120184481,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),11,d2_absolute_error_score,0.6122691705479513,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),12,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04',
+       'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+Ridge(),12,r2,0.8626379737481127,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04',
+       'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+Ridge(),12,max_error,-14.864991587595778,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04',
+       'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+Ridge(),12,neg_mean_squared_error,-63.35236181658814,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04',
+       'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+Ridge(),12,explained_variance,0.8702106586801254,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04',
+       'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+Ridge(),12,d2_absolute_error_score,0.6122680001282996,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04',
+       'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08',
+       'SR_d08'],
+      dtype='object')"
+Ridge(),13,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),13,r2,0.8646650625872903,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),13,max_error,-14.683421737771607,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),13,neg_mean_squared_error,-62.44733472714061,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),13,explained_variance,0.8714892911180435,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),13,d2_absolute_error_score,0.617532111180098,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),14,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),14,r2,0.8641257630629553,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),14,max_error,-14.81950554988261,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),14,neg_mean_squared_error,-62.688276731971484,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),14,explained_variance,0.8708050368233051,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),14,d2_absolute_error_score,0.6186239278258908,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),15,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),15,r2,0.8659557054056253,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),15,max_error,-14.776764140558868,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),15,neg_mean_squared_error,-62.12030579697379,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),15,explained_variance,0.8716739742700955,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),15,d2_absolute_error_score,0.6185346351601776,"Index(['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01',
+       'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08',
+       'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),16,rand_score,0.9941414141414141,"Index(['MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),16,r2,0.8626583204143063,"Index(['MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),16,max_error,-14.854050401673181,"Index(['MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),16,neg_mean_squared_error,-63.97666841964823,"Index(['MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),16,explained_variance,0.8686672247750309,"Index(['MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),16,d2_absolute_error_score,0.6120025514230545,"Index(['MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),17,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),17,r2,0.8622473896204095,"Index(['NDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),17,max_error,-14.917724117836599,"Index(['NDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),17,neg_mean_squared_error,-64.1640567545606,"Index(['NDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),17,explained_variance,0.8681706342987239,"Index(['NDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),17,d2_absolute_error_score,0.6128257225071828,"Index(['NDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01',
+       'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04', 'MCARI1_d04', 'SR_d04',
+       'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),18,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),18,r2,0.8621420446366537,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),18,max_error,-14.930626750760066,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),18,neg_mean_squared_error,-64.21146447767526,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),18,explained_variance,0.8680509062698754,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),18,d2_absolute_error_score,0.612983480054144,"Index(['NDVI_d28', 'SAVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01', 'SAVI_d01',
+       'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),19,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),19,r2,0.8610273747621522,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),19,max_error,-14.967240115777845,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),19,neg_mean_squared_error,-64.76242956668646,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),19,explained_variance,0.8669492136283363,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),19,d2_absolute_error_score,0.611643878688138,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08',
+       'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),20,rand_score,0.9941414141414141,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),20,r2,0.859518549094938,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),20,max_error,-15.03199973182107,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),20,neg_mean_squared_error,-65.37933946817327,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),20,explained_variance,0.8654379433128631,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
+Ridge(),20,d2_absolute_error_score,0.6088623005451068,"Index(['NDVI_d28', 'SAVI_d28', 'GNDVI_d28', 'MCARI1_d28', 'SR_d28', 'NDVI_d01',
+       'SAVI_d01', 'GNDVI_d01', 'MCARI1_d01', 'SR_d01', 'NDVI_d04', 'SAVI_d04',
+       'GNDVI_d04', 'MCARI1_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08',
+       'GNDVI_d08', 'MCARI1_d08', 'SR_d08'],
+      dtype='object')"
